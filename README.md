@@ -8,8 +8,10 @@ Another example using Git
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos. Lots of examples. 
 
 ## Deployment
+
+And eb=ven more examples.
 
 ## How to continue
