@@ -16,6 +16,8 @@ And even more examples.
 
 ## How to continue
 
+Please fork this repository
+
 ### Copyright
 
 2019 Git.Taining
