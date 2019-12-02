@@ -1,4 +1,4 @@
-# Starter Web Project
+201tarter Web Project
 
 This is a simple website project for showing how to use Git and GitHub together.
 
@@ -12,6 +12,10 @@ Sample website with plenty of files for demos. Lots of examples.
 
 ## Deployment
 
-And eb=ven more examples.
+And even more examples.
 
 ## How to continue
+
+### Copyright
+
+2019 Git.Taining
